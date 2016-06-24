@@ -1,0 +1,20 @@
+c:\users\dark_alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\bin\Release\LeParadoxHD Video Compressing.exe.config
+c:\users\dark_alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD_Converter.Form1.resources
+c:\users\dark_alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD_Converter.Properties.Resources.resources
+c:\users\dark_alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Converter.csproj.GenerateResource.Cache
+c:\users\dark_alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Video Compressing.exe
+c:\users\dark_alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Video Compressing.pdb
+C:\Users\Dark_Alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\bin\Release\LeParadoxHD Video Compressing.exe
+C:\Users\Dark_Alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\bin\Release\LeParadoxHD Video Compressing.pdb
+C:\Users\Dark_Alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Converter.csprojResolveAssemblyReference.cache
+C:\Users\Dark_Alex\documents\visual studio 2015\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD_Converter.Resource1.resources
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\bin\Release\LeParadoxHD Video Compressing.exe.config
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Video Compressing.exe
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Video Compressing.pdb
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\bin\Release\LeParadoxHD Video Compressing.exe
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\bin\Release\LeParadoxHD Video Compressing.pdb
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Converter.csprojResolveAssemblyReference.cache
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD_Converter.Form1.resources
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD_Converter.Properties.Resources.resources
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD_Converter.Resource1.resources
+Z:\Projects\LeParadoxHD Converter\LeParadoxHD Converter\obj\Release\LeParadoxHD Converter.csproj.GenerateResource.Cache
